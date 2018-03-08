@@ -1,7 +1,7 @@
 
 Step1: download flowers image:
 
-curl -O http://download.tensorflow.org/example_images/flower_photos.tgz
+$ curl -O http://download.tensorflow.org/example_images/flower_photos.tgz
 
 Step2: extract flowers photo files and put them under the current folder as sub folder flower_photos
 
